@@ -27,3 +27,17 @@ function powerTwo(n) {
   }
     return true;
 }
+
+
+function PowerOf(n){
+  if(n<2){
+    return false
+  }
+  while(n<2){
+    if(n%2 !== 0){
+      return false
+  }
+  return true
+}
+
+console.log(PowerOf(2))
