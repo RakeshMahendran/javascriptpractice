@@ -1,3 +1,3 @@
-require('./Problem1/problem1')
-require('./MathAlgorithms/fibonacci')
-require("./MathAlgorithms/primeNumber");
+// require('./Problem1/problem1')
+// require('./MathAlgorithms/fibonacci')
+require("./MathAlgorithms/powerOfTwo");
