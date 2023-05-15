@@ -2,4 +2,4 @@
 //  //require('./MathAlgorithms/fibonacci')
 // require("./MathAlgorithms/powerOfTwo");
 require("../src/RecursiveAlgorithms/recursiveFactorial")
-require("../src/SearchAlgorithms/binarySearch")
+require("../src/SearchAlgorithms/recursiveBinarySearch")

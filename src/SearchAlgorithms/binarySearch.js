@@ -16,4 +16,4 @@ function binarySearch(arr,target){
     
 }
 
-console.log("binarySearch",binarySearch([1,4,5,6,7,10,15,40,50,60,70],60))
+console.log("binarySearch",binarySearch([1,4,5,6,7,10,15,40,50,60,70],80))
