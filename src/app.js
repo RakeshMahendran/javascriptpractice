@@ -1,4 +1,5 @@
-require('./Problem1/usingQuickSort')
- //require('./MathAlgorithms/fibonacci')
-require("./MathAlgorithms/powerOfTwo");
+// require('./Problem1/usingQuickSort')
+//  //require('./MathAlgorithms/fibonacci')
+// require("./MathAlgorithms/powerOfTwo");
 require("../src/RecursiveAlgorithms/recursiveFactorial")
+require("../src/SearchAlgorithms/binarySearch")
