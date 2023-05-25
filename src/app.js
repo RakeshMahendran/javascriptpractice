@@ -3,3 +3,4 @@
 // require("./MathAlgorithms/powerOfTwo");
 require("../src/RecursiveAlgorithms/recursiveFactorial")
 require("../src/SearchAlgorithms/recursiveBinarySearch")
+require('../src/SortingAlgorithms/bubbleSort')

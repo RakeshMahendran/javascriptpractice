@@ -1,0 +1,41 @@
+[
+{
+        "locationName":"New York",
+        "locationid":"US01",
+        "serviceType":"hotels",
+        "isDomestic":true
+},
+{
+        "locationName":"Las Vegas",
+        "locationid":"US02",
+        "serviceType":"hotels",
+        "isDomestic":true
+},
+{
+        "locationName":"Orlando",
+        "locationid":"US03",
+        "serviceType":"hotels",
+        "isDomestic":true
+},
+{
+        "locationName":"Manhattan",
+        "parentLocationId":"US01",
+        "locationid":"US01P01",
+        "serviceType":"hotels",
+        "isDomestic":true
+},
+{
+        "locationName":"Queens",
+        "parentLocationId":"US01",
+        "locationid":"US01P02",
+        "serviceType":"hotels",
+        "isDomestic":true
+},
+{
+        "locationName":"MIDTOWN",
+        "parentLocationId":"US01",
+        "locationid":"US01P03",
+        "serviceType":"hotels",
+        "isDomestic":true
+}
+]
