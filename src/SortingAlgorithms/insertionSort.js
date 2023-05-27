@@ -14,3 +14,5 @@ const arr = [-4,5,-6,8,3]
 
 insertSort(arr)
 console.log(arr)
+
+
