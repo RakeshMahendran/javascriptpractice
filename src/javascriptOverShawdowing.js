@@ -1,11 +1,12 @@
 // When a varible declared in a global scope is overshadowed by the variable declared in a block scope, it is called as variabe overshadowing
-
-var a = 5
-function hmm (){
-   var a = 2
-   console.log(a)
+function hi(){
+    let a = 5;
+    function hmm() {
+      var a = 2;
+      console.log(a);
+    }
+    hmm()
+    console.log("a2", a);
 }
 
-hmm()
-
-console.log("a2",a)
+hi()
