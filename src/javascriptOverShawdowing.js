@@ -6,4 +6,6 @@ function hmm (){
    console.log(a)
 }
 
+hmm()
+
 console.log("a2",a)
