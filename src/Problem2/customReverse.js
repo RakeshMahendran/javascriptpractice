@@ -24,3 +24,4 @@ function merge (left,right) {
 
 const arr = [4,10,6,-10,5]
 console.log("mergesort",customMerge(arr))
+console.log("hiiiiiiiii");
