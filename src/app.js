@@ -6,4 +6,5 @@
 // require('../src/SortingAlgorithms/insertionSort')
 // require('../src/javascriptOverShawdowing')
 // require('../src/javascriptOverShawdowing')
-  require('../src/mainOjbect')
+  //require('../src/mainOjbect')
+  require('../src/candies')
